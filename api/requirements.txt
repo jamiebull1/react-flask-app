@@ -1,2 +1,6 @@
+dictalchemy
 flask
+flask-admin
+flask-sqlalchemy
+flask-migrate
 python-dotenv
